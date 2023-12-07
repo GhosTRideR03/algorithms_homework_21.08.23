@@ -1,4 +1,4 @@
-package AlgorithmsHomework.homework_one;
+package algorithms_homework.homework_one;
 //
 public class BigO {
 
@@ -13,7 +13,7 @@ public class BigO {
 //                System.out.println("*");
 //        break;
 //    }
-//        O(n^2)
+//        O(n)
 //
 //    void test2(int n)
 //    {
